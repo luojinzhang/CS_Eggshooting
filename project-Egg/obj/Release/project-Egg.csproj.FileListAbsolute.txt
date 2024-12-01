@@ -1,0 +1,51 @@
+C:\Users\admin\Desktop\project-Egg\project-Egg\bin\Release\project-Egg.exe.config
+C:\Users\admin\Desktop\project-Egg\project-Egg\obj\Release\project-Egg.exe
+C:\Users\admin\Desktop\project-Egg\project-Egg\obj\Release\project-Egg.pdb
+C:\Users\admin\Desktop\project-Egg\project-Egg\bin\Release\Form1.resx
+C:\Users\admin\Desktop\project-Egg\project-Egg\bin\Release\Form1.cs
+C:\Users\admin\Desktop\project-Egg\project-Egg\bin\Release\Form1.Designer.cs
+C:\Users\admin\Desktop\project-Egg\project-Egg\bin\Release\project-Egg.exe
+C:\Users\admin\Desktop\project-Egg\project-Egg\bin\Release\project-Egg.pdb
+C:\Users\admin\Desktop\project-Egg\project-Egg\obj\Release\project-Egg.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\project-Egg\project-Egg\obj\Release\project_Egg.Form1.resources
+C:\Users\admin\Desktop\project-Egg\project-Egg\obj\Release\project_Egg.GameResources.resources
+C:\Users\admin\Desktop\project-Egg\project-Egg\obj\Release\project_Egg.Properties.Resources.resources
+C:\Users\admin\Desktop\project-Egg\project-Egg\obj\Release\project-Egg.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\project-Egg\project-Egg\bin\Release\Resources\BreakEgg.wav
+C:\Users\admin\Desktop\project-Egg\project-Egg\bin\Release\Resources\cached_click.wav
+C:\Users\admin\Desktop\project-Egg\project-Egg\bin\Release\Resources\cached_explosion.wav
+C:\Users\admin\Desktop\project-Egg\project-Egg\bin\Release\Resources\EggLands.wav
+C:\Users\admin\Desktop\project-Egg\project-Egg\bin\Release\Resources\cached_blastit.wav
+C:\Users\admin\Desktop\project-Egg\project-Egg\bin\Release\Resources\cached_warning.wav
+C:\Users\admin\Desktop\project-Egg\project-Egg\bin\Release\Resources\cached_aooga.wav
+C:\Users\admin\Desktop\project-Egg\project-Egg\bin\Release\Resources\cached_footlands.wav
+C:\Users\admin\Desktop\project-Egg\project-Egg\bin\Release\Resources\cached_footfall.wav
+C:\Users\Lok Kam Cheung\Desktop\project-Egg\project-Egg\bin\Release\Form1.resx
+C:\Users\Lok Kam Cheung\Desktop\project-Egg\project-Egg\bin\Release\Form1.cs
+C:\Users\Lok Kam Cheung\Desktop\project-Egg\project-Egg\bin\Release\Form1.Designer.cs
+C:\Users\Lok Kam Cheung\Desktop\project-Egg\project-Egg\bin\Release\Resources\BreakEgg.wav
+C:\Users\Lok Kam Cheung\Desktop\project-Egg\project-Egg\bin\Release\Resources\cached_click.wav
+C:\Users\Lok Kam Cheung\Desktop\project-Egg\project-Egg\bin\Release\Resources\cached_explosion.wav
+C:\Users\Lok Kam Cheung\Desktop\project-Egg\project-Egg\bin\Release\Resources\EggLands.wav
+C:\Users\Lok Kam Cheung\Desktop\project-Egg\project-Egg\bin\Release\Resources\cached_blastit.wav
+C:\Users\Lok Kam Cheung\Desktop\project-Egg\project-Egg\bin\Release\Resources\cached_warning.wav
+C:\Users\Lok Kam Cheung\Desktop\project-Egg\project-Egg\bin\Release\Resources\cached_aooga.wav
+C:\Users\Lok Kam Cheung\Desktop\project-Egg\project-Egg\bin\Release\Resources\cached_footlands.wav
+C:\Users\Lok Kam Cheung\Desktop\project-Egg\project-Egg\bin\Release\Resources\cached_footfall.wav
+C:\Users\Lok Kam Cheung\Desktop\project-Egg\project-Egg\bin\Release\project-Egg.exe.config
+C:\Users\Lok Kam Cheung\Desktop\project-Egg\project-Egg\bin\Release\project-Egg.exe.manifest
+C:\Users\Lok Kam Cheung\Desktop\project-Egg\project-Egg\bin\Release\project-Egg.application
+C:\Users\Lok Kam Cheung\Desktop\project-Egg\project-Egg\bin\Release\project-Egg.exe
+C:\Users\Lok Kam Cheung\Desktop\project-Egg\project-Egg\bin\Release\project-Egg.pdb
+C:\Users\Lok Kam Cheung\Desktop\project-Egg\project-Egg\obj\Release\project_Egg.Form1.resources
+C:\Users\Lok Kam Cheung\Desktop\project-Egg\project-Egg\obj\Release\project_Egg.GameResources.resources
+C:\Users\Lok Kam Cheung\Desktop\project-Egg\project-Egg\obj\Release\project_Egg.Properties.Resources.resources
+C:\Users\Lok Kam Cheung\Desktop\project-Egg\project-Egg\obj\Release\project-Egg.csproj.GenerateResource.Cache
+C:\Users\Lok Kam Cheung\Desktop\project-Egg\project-Egg\obj\Release\project-Egg.exe.manifest
+C:\Users\Lok Kam Cheung\Desktop\project-Egg\project-Egg\obj\Release\project-Egg.application
+C:\Users\Lok Kam Cheung\Desktop\project-Egg\project-Egg\obj\Release\project-Egg.exe
+C:\Users\Lok Kam Cheung\Desktop\project-Egg\project-Egg\obj\Release\project-Egg.pdb
+C:\Users\Lok Kam Cheung\Desktop\project-Egg\project-Egg\obj\Release\project-Egg.csprojResolveAssemblyReference.cache
+D:\Doc\Học tập\Lập trình game\DirectX\project-Egg(new)\project-Egg\bin\Release\project-Egg.exe.config
+D:\Doc\Học tập\Lập trình game\DirectX\project-Egg(new)\project-Egg\obj\Release\project-Egg.exe
+D:\Doc\Học tập\Lập trình game\DirectX\project-Egg(new)\project-Egg\obj\Release\project-Egg.pdb
